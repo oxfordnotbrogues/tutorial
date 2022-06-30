@@ -1,0 +1,39 @@
+h1{
+ background-color: blueviolet;
+}
+#reg-no{
+    color:chocolate;
+}
+.tribe{
+    color:purple;
+}
+body{
+    background:#222222;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+} 
+
+#me{
+    color: red;
+}
+.us{
+    color: purple;
+}
+p{
+    color: white;
+}
+#wahalur{
+    color: green;
+}
+#wahalur.go.return.welcome{
+    color: pink;
+    
+}
+
+
+
+
+

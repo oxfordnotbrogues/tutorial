@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h1>Hello world</h1>
+<h2>Hello world</h2>
+<h3>Hello world</h3>
+<h4>Hello world</h4>
+<h5>Hello world</h5>
+<h6>Hello world v</h6>
+<p>Lorem ipsum</p>
+<ul>
+    <li>Maggi</li>
+    <li>salt</li>
+    <li>Spaghetti</li>
+    <li>Egg</li>
+    <li>chicken</li>
+</ul>
+<hr/>
+<ol>
+    <li>maggi</li>
+    <li>salt</li>
+    <li>spaghetti</li>
+    <li>egg</li>
+    <li>chicken</li>
+https
+</ol>
+<address>No 22 blah blah</address>
+<img width="180" src="https://images.pexels.com/photos/2747249/pexels-photo-2747249.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
+  <img width="180" src="lollipop.webp" alt="my lollipop">
+<a href="lollipop.webp" download>Download image</a>
+<a href="about.html">Go to the about page</a>
+<abbr title="Non Government Organisation">NGO</abbr>
+<p>My name is <span style="color: blue"> ifeoma</span></p>
+<figure>
+    <img width="180" src="https://images.pexels.com/photos/2747249/pexels-photo-2747249.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
+<figcaption>General Buhari</figcaption>
+</figure>
+<div style="height: 500px; width:100; background-color:green"></div>
+<section></section>
+</body>
+</html>

@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hero{
+    background-color: blue;
+    height: 50vh;
+    width: 50%;
+}
+#nike.puton.your.dancing.shoes p p p p p p{
+    background-color: brown;
+}
+
+#Nigeria{
+    background-color: black;
+}
+.wrapper{
+    top: 50%;
+    transform: translate (-50% -50%);
+    color:white;
+    text-align:center 
+}
+h2{
+    margin-bottom:16px;
+}
+p{
+    max-width:600px;
+}
+a{
+    display: inline-block;
+    margin-top: 20px;
+    color: white;
+    background-color: red;
+    padding: 8px 24px;
+    border-radius: 10px;
+    text-decoration: none;
+    transition:0.4s ;
+
+}
+a{
+    background-color: brown;
+}
+.whatsapp{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    border-top-left-radius: 50%;
+    background-color: chocolate;
+    line-height: 50px;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+}
+.hero{
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-position: center center;
+    background-color: purple;
+    backdrop-image: ;
+}
